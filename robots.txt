@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zxgkloe.github.io/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/app/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/assets/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/css/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/data/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/includes/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/item/sitemap.zxgkloe.gz
+Sitemap: https://zxgkloe.github.io/src/sitemap.zxgkloe.gz
